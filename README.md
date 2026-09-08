@@ -4,14 +4,14 @@
 
 ### Full Stack Web Developer
 
-📍 Tangerang, Indonesia
+I build **enterprise applications, automation systems, APIs, dashboards,**
+and **data-driven internal tools**.
 
-I build internal business applications, automation systems, dashboards,  
-REST APIs, and data-driven applications.
+📍 Tangerang, Indonesia
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=henpasin&label=Profile%20Views&color=0e75b6&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=henpasin&label=Profile%20Views&color=0e75b6&style=flat-square" />
 
 </div>
 
@@ -19,279 +19,157 @@ REST APIs, and data-driven applications.
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Web Developer** with experience developing and maintaining
-large-scale internal business applications.
+I'm a **Full Stack Web Developer** focused on building applications
+that solve real operational and business problems.
 
-My work focuses on:
+I enjoy working across the entire application lifecycle:
 
-- 🏢 Internal enterprise applications
-- ⚙️ Business process automation
-- 📊 Dashboard & reporting systems
+**Business Process → Database → Backend → API → Frontend → Deployment → Automation**
+
+My main areas of interest are:
+
+- 🏢 Enterprise & Internal Business Applications
+- ⚙️ Business Process Automation
 - 🔐 Authentication & Single Sign-On
-- 🔌 REST API integrations
-- 🗄️ Database design & data processing
-- 🐳 Docker-based application deployment
-- 🔄 Background jobs & scheduled processes
-- 🛠️ Internal tools that simplify operational workflows
-
-Currently working at **PT. Surya Dermato Medica Laboratories** as a Web Developer.
+- 📊 Dashboard & Reporting Systems
+- 🔌 REST API & System Integration
+- 🗄️ Database Design & Data Processing
+- 🐳 Containerized Application Deployment
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Core Tech Stack
+
+<div align="center">
 
 ### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,adonis" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-- Node.js
-- Express.js
-- AdonisJS v6
-- REST API
-- JWT Authentication
-- Cron Jobs
-- Sequelize ORM
+**Node.js • Express.js • AdonisJS • REST API • Sequelize**
+
+<br>
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,vue,html,css,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,vue,html,css,bootstrap" />
 
-- JavaScript
-- Vue 3
-- Inertia.js
-- EJS
-- HTML5
-- CSS3
-- Bootstrap
+**JavaScript • Vue 3 • Inertia.js • EJS • Bootstrap**
+
+<br>
 
 ### Database & Data
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 
-- MySQL
-- MariaDB
-- PostgreSQL
-- MongoDB
-- Redis
-- ClickHouse
-- Database Design
-- Data Processing
+**MySQL • MariaDB • PostgreSQL • MongoDB • Redis • ClickHouse**
+
+<br>
 
 ### DevOps & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
 
-- Docker
-- Portainer
-- Git & GitHub
-- n8n
-- Appsmith
-- Google Drive API / OAuth2
-- REST API Integration
-- Automation
-- PM2
+**Docker • Portainer • Git • PM2 • n8n • Appsmith**
+
+</div>
 
 ---
 
-## 🧩 What I Build
+## ⚡ What I Build
 
-### 🩺 Sales Visit Management System
+### 🏢 Enterprise Internal Systems
 
-Enterprise internal application used to manage sales-force activities.
+Applications that support real operational workflows such as:
 
-**Features include:**
-
-- Sales visit planning
-- Multi-level approval workflow
-- Visit realization tracking
-- Photo evidence
-- Digital signatures
-- Operational reporting
-- Performance monitoring dashboards
-- Biometric attendance integration
-
-**Tech Stack**
-
-`Node.js` `Express.js` `EJS` `MySQL` `Sequelize` `Google Drive API`
-
----
-
-### 🔐 Internal Single Sign-On System
-
-Developed authentication services used by multiple internal applications.
-
-**Features include:**
-
-- Centralized authentication
-- JWT authentication
-- Redis session/token management
-- REST API integration
-- Authentication between internal systems
-
-**Tech Stack**
-
-`Node.js` `JWT` `Redis` `REST API`
-
----
-
-### ⚙️ Internal Automation & Reporting Platform
-
-Built automation workflows to reduce repetitive operational processes.
-
-**Features include:**
-
-- Scheduled data processing
-- Background jobs
-- Automated reporting
-- Data synchronization
-- API integrations
-- Internal workflow automation
-
-**Tech Stack**
-
-`Node.js` `n8n` `MySQL` `REST API` `Cron Jobs`
-
----
-
-### 📊 Internal Dashboard & Data Reporting
-
-Developed dashboards and reporting systems for business and operational
-monitoring.
-
-Working with:
-
-`MySQL` `ClickHouse` `Node.js` `JavaScript`
-
-Focused on transforming large operational datasets into information that is
-easier for business teams to understand.
-
----
-
-### 📦 Asset & Stock Management Systems
-
-Developed internal modules for:
-
+- Sales activity management
+- Approval workflows
 - Asset management
 - Stock monitoring
-- Stock data updates
 - Operational reporting
-- Data validation
-- Internal workflow management
+- Document management
+- Internal business processes
 
 ---
 
-## 💼 Experience
+### 🔐 Authentication & API Systems
 
-### PT. Surya Dermato Medica Laboratories
+Building secure communication between internal applications.
 
-**Web Developer**  
-`Oct 2023 — Present`
+`JWT` `Redis` `REST API` `OAuth2`
 
-Develop and maintain internal applications that support business operations,
-sales activities, reporting, automation, authentication, asset management,
-and data processing.
+Including:
 
----
-
-### PT. Bank Central Asia Tbk
-
-**Support — Outsourcing**  
-`Apr 2019 — Feb 2023`
-
-Worked on operational processes and developed small automation tools using:
-
-`VBA Excel Macro` `Batch Script` `Microsoft Power Automate` `UiPath`
+- Single Sign-On
+- Token-based authentication
+- API integration
+- Google Drive API integration
+- Centralized authentication
 
 ---
 
-### PT. Bank Central Asia Tbk
+### ⚙️ Automation
 
-**Front Office — Outsourcing**  
-`Mar 2017 — Mar 2019`
+Reducing repetitive manual work through automation.
 
-Worked with banking document processing, validation, registration, balancing,
-and operational data accuracy.
+`Node.js` `n8n` `Cron Jobs` `REST API`
 
----
+Examples:
 
-## 🎓 Education
-
-### Hacktiv8 Indonesia
-
-**Full Stack JavaScript Immersive Program**
-
-`Mar 2023 — Jul 2023`
+- Scheduled data processing
+- Data synchronization
+- Background jobs
+- Automated reports
+- Workflow automation
 
 ---
 
-## 🏅 Certifications
+### 📊 Data & Dashboard
 
-- Full Stack JavaScript — Hacktiv8 Indonesia
-- JavaScript (Basic) — HackerRank
-- SQL — HackerRank
-- CSS — HackerRank
-- Microsoft Excel
-- Microsoft Word
-- Adobe Photoshop
+Turning operational data into useful information.
 
----
+`MySQL` `ClickHouse` `JavaScript`
 
-## 📊 GitHub Statistics
+Focused on:
 
-<div align="center">
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=henpasin&show_icons=true&hide_border=true&count_private=true"
-/>
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=henpasin&layout=compact&hide_border=true"
-/>
-
-</div>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=henpasin&hide_border=true"
-/>
-
-</div>
+- Large dataset processing
+- Dashboard development
+- Operational analytics
+- Reporting
+- Data aggregation
+- Monitoring systems
 
 ---
 
-## 📫 Connect With Me
+### 🧬 System Integration
 
-<p align="left">
+Connecting applications, databases, APIs, and devices into
+one centralized system.
 
-<a href="mailto:hendrosinambela19@gmail.com">
-  <img src="https://img.shields.io/badge/Email-hendrosinambela19%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+Including integrations with:
 
-<a href="https://github.com/henpasin">
-  <img src="https://img.shields.io/badge/GitHub-henpasin-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
+- REST APIs
+- Google Drive
+- Biometric attendance devices
+- Databases
+- Internal applications
+- Automation platforms
 
 ---
 
-<div align="center">
+## 🧠 Things I Enjoy Solving
 
-### 💡 Build systems that solve real problems.
-
-<sub>
-Backend • Automation • Data • Internal Business Applications
-</sub>
-
-</div>
+```text
+Complex Business Process
+        ↓
+Database Design
+        ↓
+Backend Architecture
+        ↓
+REST API
+        ↓
+Frontend Application
+        ↓
+Automation
+        ↓
+Monitoring & Reporting
